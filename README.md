@@ -4,7 +4,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on .NET, C#, SQLServer, JavaScript, IVR and URA's
+- 🔭 I’m currently working on .NET, C#, SQLServer, JavaScript and IVR's
 - 🌱 I’m currently learning Microservices
 - 👯 I’m looking to collaborate on Open Projects and Java - Based Technologies 
 
