@@ -17,6 +17,7 @@
 <img width = '24px' title="MySQL" align= 'center' src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
 <img width = '24px' title="PostgreSQL" align= 'center' src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png">
 <img width = '24px' title="ElasticSearch" align= 'center' src="https://user-images.githubusercontent.com/9143253/47912437-f749bc00-de98-11e8-9669-e97f58b8be2e.png">
+<img width = '24px' title="Docker" align= 'center' src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
 
 
 ## <img src = "https://media.giphy.com/media/J3AFbrUR0KiAsAJsHS/giphy.gif" width = 32px> Connect with me
